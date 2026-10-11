@@ -1,208 +1,128 @@
-<div align="center">
+ <!-- ========== ANIMATED HEADER ========== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0066ff,100:00c6ff&height=220&section=header&text=AHMED%20RAZA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:123B78,100:168BFF&text=AHMED%20RAZA&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20THINKER&descSize=15&descAlignY=65" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Experiences;HTML+%7C+CSS+%7C+JavaScript;Turning+Ideas+Into+Websites"/>
+<!-- ========== PROFILE PICTURE ========== -->
 
-<br>
+<p align="center">
+  <img src="https://github.com/ahmdxraza.png" width="150" alt="Ahmed Raza GitHub Profile Picture" />
+</p>
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-050505?style=for-the-badge&logo=code&logoColor=00c6ff"/>
-<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=00c6ff"/>
-<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=00c6ff"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00c6ff"/>
+<h1 align="center">Hi, I'm Ahmed Raza 👋</h1>
 
-</div>
+<h3 align="center">💻 Web Developer | 🎨 Creative Thinker | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/ahmdxraza?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-087CFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmdxraza&label=PROFILE%20VIEWS&color=087CFF&style=flat-square" />
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=ABOUT%20ME&fontSize=25&fontColor=00c6ff"/>
+- 🌐 Passionate about web development and website design.
+- 🎨 Interested in creative and responsive user interfaces.
+- 💻 Building projects with HTML and CSS.
+- 🚀 Improving my skills through practical assignments.
+- 💡 Always exploring new ideas and technologies.
 
-</div>
+---
+
+## ⚡ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="55%" bgcolor="#050505">
-
-### 👨‍💻 Who I Am
-
-**Ahmed Raza** — Frontend Developer focused on building clean, modern and responsive websites.
-
-I enjoy turning ideas into interactive web experiences using:
-
-`HTML` • `CSS` • `JavaScript`
-
+<td width="50%">
+<h3>▶️ YouTube Clone</h3>
+<p>A video platform UI recreation.</p>
+<a href="https://ahmdxraza.github.io/youtube_clone/">View Project →</a>
 </td>
-
-<td width="45%" bgcolor="#050505">
-
-### ⚡ Quick Info
-
-💻 Frontend Developer
-🎨 UI & Web Design
-📱 Responsive Websites
-🚀 Learning & Building
-🇵🇰 Pakistan
-
+<td width="50%">
+<h3>🌌 Photon Website</h3>
+<p>A creative website design project.</p>
+<a href="https://ahmdxraza.github.io/photon_website/">View Project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🎨 CSS Card</h3>
+<p>Card design using CSS styling.</p>
+<a href="https://ahmdxraza.github.io/css-card/">View Project →</a>
+</td>
+<td width="50%">
+<h3>🔐 Login CSS</h3>
+<p>A login page design project.</p>
+<a href="https://ahmdxraza.github.io/login-css/">View Project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🧭 Navbar</h3>
+<p>A navigation bar design project.</p>
+<a href="https://github.com/ahmdxraza/navbar">View Repository →</a>
+</td>
+<td width="50%">
+<h3>📝 Form Task</h3>
+<p>An HTML form assignment.</p>
+<a href="https://github.com/ahmdxraza/form-task">View Repository →</a>
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=TECH%20STACK&fontSize=25&fontColor=00c6ff"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ahmdxraza?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=168BFF" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=FEATURED%20PROJECTS&fontSize=25&fontColor=00c6ff"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmdxraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF&icon_color=168BFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdxraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF" />
+</p>
 
-</div>
-
-<table>
-<tr>
-<td align="center" bgcolor="#050505" width="50%">
-
-### 🎬 YouTube Clone
-
-Frontend project inspired by a video platform.
-
-<a href="https://github.com/ahmdxraza/youtube_clone">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0066ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" bgcolor="#050505" width="50%">
-
-### 🌐 Photon Website
-
-Responsive website built with HTML & CSS.
-
-<a href="https://github.com/ahmdxraza/photon_website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0066ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" bgcolor="#050505">
-
-### 🎨 CSS Card
-
-CSS card design project.
-
-<a href="https://ahmdxraza.github.io/css-card/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" bgcolor="#050505">
-
-### 📝 Form Task
-
-HTML & CSS form project.
-
-<a href="https://ahmdxraza.github.io/form-task/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdxraza&theme=tokyonight&hide_border=true&background=050816&ring=168BFF&fire=168BFF&currStreakLabel=168BFF" />
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=MORE%20PROJECTS&fontSize=25&fontColor=00c6ff"/>
-
-</div>
-
-<table>
-<tr>
-<td bgcolor="#050505">
-
-🔹 [Navbar](https://github.com/ahmdxraza/navbar)
-
-🔹 [Login CSS](https://github.com/ahmdxraza/login-css)
-
-🔹 [Demo Website](https://ahmdxraza.github.io/demowebsite-ass5/)
-
-🔹 [Table Task](https://ahmdxraza.github.io/table-task/)
-
-</td>
-
-<td bgcolor="#050505">
-
-🔹 [4 Page Website](https://ahmdxraza.github.io/4-page-website/)
-
-🔹 [UL & OL List](https://ahmdxraza.github.io/UL-OL-LIST/)
-
-🔹 [School Formal Letter](https://ahmdxraza.github.io/schoolformal-letter/)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ahmdxraza">
+    <img src="https://img.shields.io/badge/GitHub-Profile-087CFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahmdxraza?tab=repositories">
+    <img src="https://img.shields.io/badge/My-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>“Every project is another step forward.”</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=GITHUB%20ANALYTICS&fontSize=25&fontColor=00c6ff"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmdxraza&show_icons=true&hide_border=true&bg_color=050505&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ahmdxraza&theme=dark&hide_border=true&background=050505&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=55&section=header&text=CURRENT%20FOCUS&fontSize=25&fontColor=00c6ff"/>
-
-<br>
-
-```text
-Building modern frontend projects
-Improving UI/UX skills
-Creating responsive websites
-Learning JavaScript
-Building real-world projects
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Let's Build Something Great
-
-<a href="https://github.com/ahmdxraza">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00c6ff"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0066ff,100:050505&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BFF,100:050816&height=120&section=footer" width="100%" />
+</p>
