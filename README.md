@@ -1,128 +1,155 @@
- <!-- ========== ANIMATED HEADER ========== -->
+ <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:123B78,100:168BFF&text=AHMED%20RAZA&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20THINKER&descSize=15&descAlignY=65" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=AHMED%20RAZA&fontSize=55&fontColor=FFFFFF&color=0:050816,100:087CFF&desc=WEB%20DEVELOPER&descAlignY=75" width="100%">
 
-<!-- ========== PROFILE PICTURE ========== -->
+<img src="https://github.com/ahmdxraza.png" width="130" alt="Ahmed Raza">
 
-<p align="center">
-  <img src="https://github.com/ahmdxraza.png" width="150" alt="Ahmed Raza GitHub Profile Picture" />
-</p>
+# AHMED RAZA
 
-<h1 align="center">Hi, I'm Ahmed Raza 👋</h1>
+**Web Developer | Creative Thinker | Tech Enthusiast**
 
-<h3 align="center">💻 Web Developer | 🎨 Creative Thinker | 🚀 Tech Enthusiast</h3>
+[ MY PROJECTS ](https://github.com/ahmdxraza?tab=repositories) • [ GITHUB PROFILE ](https://github.com/ahmdxraza)
 
-<p align="center">
-  <a href="https://github.com/ahmdxraza?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-087CFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmdxraza&label=PROFILE%20VIEWS&color=087CFF&style=flat-square" />
-</p>
+</div>
 
 ---
-
-## 👨‍💻 About Me
-
-- 🌐 Passionate about web development and website design.
-- 🎨 Interested in creative and responsive user interfaces.
-- 💻 Building projects with HTML and CSS.
-- 🚀 Improving my skills through practical assignments.
-- 💡 Always exploring new ideas and technologies.
-
----
-
-## ⚡ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3>▶️ YouTube Clone</h3>
-<p>A video platform UI recreation.</p>
-<a href="https://ahmdxraza.github.io/youtube_clone/">View Project →</a>
+<td width="25%" valign="top">
+
+## NAVIGATION
+
+- [Home](#ahmed-raza)
+- [About](#about-me)
+- [Skills](#my-skills)
+- [Projects](#my-projects)
+- [Stats](#github-stats)
+- [Contact](#contact)
+
 </td>
-<td width="50%">
-<h3>🌌 Photon Website</h3>
-<p>A creative website design project.</p>
-<a href="https://ahmdxraza.github.io/photon_website/">View Project →</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🎨 CSS Card</h3>
-<p>Card design using CSS styling.</p>
-<a href="https://ahmdxraza.github.io/css-card/">View Project →</a>
-</td>
-<td width="50%">
-<h3>🔐 Login CSS</h3>
-<p>A login page design project.</p>
-<a href="https://ahmdxraza.github.io/login-css/">View Project →</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🧭 Navbar</h3>
-<p>A navigation bar design project.</p>
-<a href="https://github.com/ahmdxraza/navbar">View Repository →</a>
-</td>
-<td width="50%">
-<h3>📝 Form Task</h3>
-<p>An HTML form assignment.</p>
-<a href="https://github.com/ahmdxraza/form-task">View Repository →</a>
+<td width="75%" valign="top">
+
+## About Me
+
+Hi! I'm Ahmed Raza, a web development enthusiast who enjoys building creative websites and improving my coding skills through practical projects.
+
+- 🌐 Web Development
+- 🎨 Modern UI Design
+- 🚀 Practical Projects
+- 💡 Continuous Learning
+
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/ahmdxraza?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=168BFF" />
-  </a>
-</p>
+## My Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## My Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmdxraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF&icon_color=168BFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdxraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdxraza&theme=tokyonight&hide_border=true&background=050816&ring=168BFF&fire=168BFF&currStreakLabel=168BFF" />
-</p>
+### YouTube Clone
+
+Video platform website recreation.
+
+[**Explore Project →**](https://ahmdxraza.github.io/youtube_clone/)
+
+</td>
+<td width="50%">
+
+### Photon Website
+
+Creative website design.
+
+[**Explore Project →**](https://ahmdxraza.github.io/photon_website/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### CSS Card
+
+Card design using CSS.
+
+[**Explore Project →**](https://ahmdxraza.github.io/css-card/)
+
+</td>
+<td width="50%">
+
+### Login CSS
+
+Login page design project.
+
+[**Explore Project →**](https://ahmdxraza.github.io/login-css/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Navbar
+
+Navigation bar assignment.
+
+[**View Repository →**](https://github.com/ahmdxraza/navbar)
+
+</td>
+<td width="50%">
+
+### Form Task
+
+HTML form assignment.
+
+[**View Repository →**](https://github.com/ahmdxraza/form-task)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All Projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-087CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdxraza?tab=repositories)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ahmdxraza">
-    <img src="https://img.shields.io/badge/GitHub-Profile-087CFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/ahmdxraza?tab=repositories">
-    <img src="https://img.shields.io/badge/My-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmdxraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF&icon_color=168BFF" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdxraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=168BFF" />
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdxraza&theme=tokyonight&hide_border=true&background=050816&ring=168BFF&fire=168BFF" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>“Every project is another step forward.”</b>
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BFF,100:050816&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-087CFF?style=for-the-badge&logo=github)](https://github.com/ahmdxraza)
+
+**Thanks for visiting my profile!**
+
+*Every project is another step forward.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:087CFF,100:050816&section=footer" width="100%">
+
+</div>
